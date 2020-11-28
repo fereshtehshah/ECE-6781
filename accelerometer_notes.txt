@@ -1,0 +1,7 @@
+LSM9DS1
+
+useful links:
+
+https://learn.adafruit.com/adafruit-lsm9ds1-accelerometer-plus-gyro-plus-magnetometer-9-dof-breakout/overview
+
+https://learn.sparkfun.com/tutorials/lsm9ds1-breakout-hookup-guide?_ga=2.121996107.110204921.1606242305-990920419.1604271814
